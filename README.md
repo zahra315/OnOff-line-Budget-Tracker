@@ -25,7 +25,7 @@ Clone the repo to your local machine an ensure inquirer is installed.
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-![](Demo/Fitness%20Chart.gif)
+![](Demo/Untitled_%20Jul%2025%2C%202021%209_58%20PM.gif)
 
 
 
